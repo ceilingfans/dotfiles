@@ -111,8 +111,8 @@ font:
     #   - (Windows) Consolas
     # family: CodeNewRoman Nerd Font
     # family: RobotoMono Nerd Font
-    family: Hack
-    # family: JetBrains Mono
+    # family: Hack
+    family: JetBrains Mono
     # family: UbuntuMono Nerd Font
     # family: Monofur Nerd Font
     # family: TerminessTTF Nerd Font
